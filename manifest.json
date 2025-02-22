@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "WDYNIF?",
   "description": "Asks you 'What do you need it for?', whenever you open a new tab. Prevents you from opening tabs without a good reason.",
-  "version": "1.0",
+  "version": "1.0.1",
   "permissions": [
     "tabs",
     "storage"
